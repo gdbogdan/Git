@@ -10,4 +10,5 @@ int main(){
     printf("Hola mundo, soy Esgaarrr 6\n");
     printf("Nueva modificación\n");
     printf("Hola hoy es jueves\n");
+    printf("Creación error\n");
 }
