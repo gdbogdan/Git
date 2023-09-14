@@ -9,5 +9,6 @@ int main(){
     printf("Hola mundo, soy Esgaarrr 4332\n");
     printf("Hola mundo, soy Esgaarrr 6\n");
     printf("Nueva modificación\n");
+    printf("Hola hoy es jueves\n");
 
 }
